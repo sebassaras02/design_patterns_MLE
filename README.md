@@ -5,10 +5,15 @@ This repository explains the design patterns in a context of machine learning ap
 This repository is splitted into three main folders:
 
 1. Creational Patterns -> useful for object creations
+
     1.1. Builder
+
     1.2. Factory
+
     1.3. Abstract Factory
+
     1.4. Prototype
+    
     1.5. Singleton
 
 2. Structural Patterns -> TODO
