@@ -1,9 +1,16 @@
 scikit-learn==1.7.1
 boto3==1.40.16
 pandas==2.3.2
-numpy==2.3.2
+numpy==2.2.2
 pyarrow==21.0.0
 xgboost==3.0.4
 torch==2.8.0
 singleton-decorator==1.0.0
 transformers==4.56.0
+utilsforecast==0.2.12
+statsmodels==0.14.5
+statsforecast==2.0.2
+tqdm==4.67.1
+ipywidgets==8.1.7
+matplotlib==3.10.6
+seaborn==0.13.2
