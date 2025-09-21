@@ -2,6 +2,8 @@
 
 This repository explains the design patterns in a context of machine learning applications. This repository is designed for machine learning engineers who want to improve their coding skills. 
 
+## Overview
+
 This repository is splitted into three main folders:
 
 1. Creational Patterns -> **object creation mechanisms**
