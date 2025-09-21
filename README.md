@@ -6,7 +6,7 @@ This repository is splitted into three main folders:
 
 1. Creational Patterns -> useful for object creations
 
-    1.1. Builder
+    1.1. Builder[LINK](https://github.com/sebassaras02/design_patterns_MLE/blob/master/notebooks/creational/01_builder.ipynb)
 
     1.2. Factory
 
